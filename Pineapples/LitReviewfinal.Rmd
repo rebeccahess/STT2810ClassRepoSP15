@@ -1,0 +1,34 @@
+---
+title: "LiteratureReview/CitationAssignment"
+output: html_document
+bibliography: Items.bib
+---
+I have decided to use keywords such as breast cancer, cancer, and ethnicity. After reading through several abstracts and studies, there is a strong correlation between African Americans and the mortality rate of those who get breast cancer. I was trying to mainly focus within North Carolina region, but I will expand my it to include other states and even countrires. 
+
+Based on my findings in the articles located below in  Refrences, I have noted a few common trends:
+
+1. African-Americans are the only ethnicity group to have a higher mortality rate among woman than any other (Including Hispanic, American Indian/Alaskan
+Native, and Asian/Pacific Islander)
+
+2. The statistics of mortality rate differ depending on if the woman is premenopausal or postmenopausal.
+
+3. There are many other factors that play into why African American's have a higher mortality rate. Some suspect it has to do with enviornmental reasons and overal quality of life (QOL).
+
+I have decided to further focus the research by looking at how specific quaility of life, such as where someone lives, their income, and their social life and seeing if it affects the mortality rate of African Americans. I am wondering if it matters if you live ruraly or urbanly, have a prayer group or not, etc. I added these to my codebook and continue to look for other variables I could consider adding to the research. 
+
+
+@chlebowski_ethnicity_2005
+@smigal_trends_2006
+@ashing-giwa_understanding_2004
+@carey_la_race_2006
+@eley_j_racial_1994
+@lee_alternative_2000
+
+
+
+
+
+
+
+# References
+
